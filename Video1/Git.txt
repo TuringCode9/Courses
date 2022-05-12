@@ -1,0 +1,38 @@
+
+¿Qué es Git?
+    .Software de control de versiones creado por Linus Torvalds.
+    .Es un software libre.
+
+¿Para que sirve?
+    .Facilitar el desarrollo y mantenimiento de aplicaciones tanto de forma individual 
+    como sobre todo trabajar en equipo.
+
+¿Cómo facilita el desarrollo y mantenimiento de las aplicaciones?
+    .Guardando un registro de todos los cambios que sufran los archivos.
+
+.Al momento de crear una aplicación tenemos distintas versiones como V1,V2,V3,V4 asi 
+sucesivamente hasta terminar el proyecto.
+
+Entendiendo el funcionamiento de Git 
+    .Hay que suponer que estamos trabajando en un archivo de Python,que se llama ejemplo
+    python.py y empezamos a escribir lineas de código y queremos guardarlo lo que 
+    normalmente hariamos seria guardar en archivo como ejemploVersion1.py,si en el futuro
+    agregamos más cosas podemos guardar otro archivo con nombre ejemploVersion2.py asi 
+    sucesivamente.
+    .Git lo que hace es tomar una instantanea de tu código 
+        -> 8745sddf "Iniciando Proyecto Python"
+    .En un futuro seguimos programando y queremos que git haga otra instantanea y le 
+    pedimos que tome otra foto del estado actual del  código.
+        -> ssuy76so "Implementando bucles en mi proyecto"
+        -> 5665jhgg "Iniciando conexion con la BBDD"
+    .Una de las principales funciones de Git es revertir la versión a un estado del tiempo
+    en el cual desees donde el código funcionara de manera mas optima u otras causas.
+    .Git puede hacer instantaneas de muchos archivo:
+        -> 76ft76g8f "Formato y conexion a BBDD"
+
+
+Ramas
+    .Imaginamos
+
+
+

@@ -1,0 +1,18 @@
+
+.Si nosotros queremos agregar todos los archivos al staging área podemos usar el siguiente
+comando:
+    ->git add .
+.Podemos hacer un add y commit en un solo comando y sera lo siguiente:
+    -> git commit -am "Usando un add y commit al mismo tiempo"
+.Podemos modificar la descripción de un commit para esto digitamos el siguiente comando:
+    -> git commit --amend
+
+.Esta modificación fue hecha desde GitHub
+
+
+
+
+
+
+
+
