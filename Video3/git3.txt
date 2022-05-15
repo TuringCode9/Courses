@@ -6,8 +6,7 @@ comando:
     -> git commit -am "Usando un add y commit al mismo tiempo"
 .Podemos modificar la descripción de un commit para esto digitamos el siguiente comando:
     -> git commit --amend
-
-.Esta modificación fue hecha desde GitHub
+.Esta modificación fue agregado desde GitHub
 
 
 
