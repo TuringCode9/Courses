@@ -1,0 +1,46 @@
+Clonación y tags
+
+.Editar desde el mismo GitHub.
+    .Podemos modificar nuestro archivo desde GitHub pulsando en el la figurita de lapiz
+    que nos permitira editar el archivo.
+    .Para subir los cambios de local a remoto usamos la instrucción: push ,para subir los
+    cambios de remoto a local usamos la instrucción pull.
+        -> git pull
+    
+
+Crear tags 
+    .Cuando queremos guardar la primera versión del proyecto.
+    . ¿Qué son las tags?
+        .Son etiquetas que nos sirven para especificar la versión de nuestro proyecto.
+    .Para crear una tags usaremos los siguiente comandos:
+        -> git tag 15-05-2022V1 -m "Versión1 proyecto"
+    .Para subir la tag a remoto usaremos el comando:
+        -> git push --tags
+
+
+Clonación del repositorio local
+    .git clone https://github.com/TuringCode9/Courses.git
+    .Estamos en la modificando desde la rama (main).
+     
+    .Para clonar el repositorio abrimos el Git Bash Here en la ruta donde deseamos clonar 
+    el repositorio y ponemos el siguiente comando en la terminal:
+        -> git clone https://github.com/TuringCode9/Courses.git
+
+
+
+
+
+.Decirle a git nuestro proyecto esta en la Version1.0 para esto crearemos tags.
+.Para crear una tag desde consola usaremos el siguiente comando:
+    -> git tag 5-12-22V1 -m "Version1 proyecto Git"
+    
+
+
+
+
+
+
+
+
+
+
