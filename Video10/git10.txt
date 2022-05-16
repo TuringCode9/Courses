@@ -1,0 +1,13 @@
+Fork en Git
+    .Ramificación de todo el proyecto desde el principio hasta el final.
+    .Su principal función es contribuir con otros proyectos.
+
+
+
+
+
+
+
+
+
+
