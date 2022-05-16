@@ -1,0 +1,22 @@
+Ramas o Branch
+
+.Para crear una rama usaremos el siguiente comando:
+    -> git branch name_rama
+    -> git log --oneline
+.Para ver las ramas que existen digitamos el siguiente comando:
+    -> git branch 
+    .Se listara la diversas ramas que hayamos creado y ademas sabremos en que rama
+    estamos pues la rama usada tendra un asterisco a su lado.
+.Para movernos a otra rama:
+    -> git checkout python
+    
+
+
+
+
+
+
+
+
+
+

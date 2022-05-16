@@ -1,0 +1,29 @@
+Iniciaremos entendiendo el uso de Git
+    .Nos dirigimos a nuestro directorio de trabajo donde tenemos una carpeta y es carpeta
+    posee a su vez 3 archivos python.
+    .Para iniciar tenemos que usar el comando git init
+    .Al iniciar git (git init) este creara 2 áreas de trabajo:
+        1)Área de ensayo(statging área):
+            .Se almacenaran los archivos de forma temporal.
+        2)Repositorio local
+            .Se almacenan esas instantaneas (fotos).
+    .Para que git realice el seguimiento tenemos que indicarle usando el comando:
+        . git add nombre_archivo.
+        .LLevara ese archivo del directorio de trabajo a el área de ensayo.
+    .Para pasar del área de ensayo a el repositorio local usaremos el siguiente comando:
+        .git commit (Aquí es donde toma la instantanea).
+    .Para ver un listado de todos los commit que tengo usaremos el siguiente comando:
+        .git log --oneline
+    .Para restaurar un archivo a una versión especifica.
+        .git reset --hard codigo_instantanea
+        
+
+    
+
+
+
+
+
+
+
+
